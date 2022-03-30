@@ -14,17 +14,18 @@ Repositori tugas ABD 2022
 ### `Tugas 3 - Skrip Map Reduce`
 - Map Reduce dilakukan agar suatu data besar dapat diproses secara tercluster dengan konsep key/values.
 - Membandingkan map reduce dan manual process dengan bantuan library numpy.
-- Berikut adalah file implementasi skrip map reduce ([link](https://github.com/rasyidpurnama/abd2022/blob/main/)).
+- Berikut adalah file implementasi skrip map reduce ([link](https://github.com/rasyidpurnama/abd2022/blob/main/mtsamples_mapreduce_colab.ipynb)).
 
 ### `Tugas 4 - Skrip SparkNLP`
 - SparkNLP adalah library spark untuk python pada domain nlp yang dikembangkan oleh [JohnSnowLabs](https://nlp.johnsnowlabs.com/).
 - SparkNLP digunakan untuk mengimplementasikan algoritma clustering di cluster spark.
-- Berikut adalah file implementasi skrip SparkNLP ([link](https://github.com/rasyidpurnama/abd2022/blob/main/)).
+- Berikut adalah file implementasi skrip SparkNLP ([link](https://github.com/rasyidpurnama/abd2022/blob/main/mtsamples_sparknlp_colab.ipynb)).
 
 ### `Tugas 5 - Skirp SparkSQL`
 - Spark SQL adalah modul yang ditujukan untuk memahami pemrosesan data secara struktural yang terbentuk di dalam inti dari Apache Spark.
 - Spark SQL terintegrasi dengan program Spark yang membiarkan penggunanya untuk meminta data terstruktur dari program-program Spark dengan menggunakan SQL atau DataFrame API. Fungsi ini dapat digunakan untuk Java, Scala, Python, dan R.
-- Berikut adalah file implementasi skrip SparkSQL ([link](https://github.com/rasyidpurnama/abd2022/blob/main/)).
+- Berikut adalah file implementasi skrip SparkSQL ([link](https://github.com/rasyidpurnama/abd2022/blob/main/mtsamples_sparksql_colab.ipynb)).
 
 ### `Tugas 6 - Tugas Kelompok`
+- Pada tugas ini kami menggunakan library sparknlp-healthcare yang memerlukan kode token untuk mendapatkan akses ke pretrained modelnya, berikut kode token yang kami gunakan dengan batas waktu tertentu, hubungi kami jika ada suatu kendala [link](https://github.com/rasyidpurnama/abd2022/blob/main/spark_nlp_for_healthcare_spark_ocr_4547.json)
 - [Link Tugas Kelompok](https://github.com/mhihsan/abd/tree/main/project_kelompok)
